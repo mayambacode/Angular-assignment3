@@ -8,9 +8,9 @@ import { Component, OnInit } from '@angular/core';
 export class HeaderComponent implements OnInit {
 
   name = "Mayamba";
-  campus = "Trafalgar";
-  login = "bokambma";
-  id = "991578659";
+  campus = "";
+  login = "";
+  id = "";
 
 
   constructor() { }
